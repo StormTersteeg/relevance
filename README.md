@@ -1,6 +1,6 @@
 # Relevance
 
-![Alt text](https://projects.dontdalon.com/assets/img/relevance-screen.png)<br>
+![Alt text](https://stormtersteeg.github.io/assets/apps/relevance-screen.png)<br>
 A simple text analysation tool written in Java using [Leap](https://github.com/StormTersteeg/Java-Leap-Framework).
 
 ### How to use
